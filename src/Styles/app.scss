@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300&display=swap');
+
+
+@import "header";
+@import "static";
+@import "home";
+@import "animations";
+@import "work";
+@import "time";
+@import "service";
+@import "skills";
+@import "contact";
+@import "footer";
+@import "mediaQ";
+
+
+
+
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: $text2;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.Section {
+  background-color: #0F1624;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 48px 0px ;
+  margin: 4rem auto 0px auto;
+  max-width: 100%;
+  box-sizing: content-box;
+  position: relative;
+  overflow: hidden;
+  grid-template-columns: 1fr 1fr;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+body {
+  background-color: $color1;
+  overflow-x: hidden;
+}
+
+.disablebtn {
+  cursor: not-allowed;
+  background-color: rgb(237, 237, 237);
+}
+
+#customM {
+  font-size: 3rem;
+}
+
+

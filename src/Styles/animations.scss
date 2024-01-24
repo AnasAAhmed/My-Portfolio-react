@@ -1,0 +1,24 @@
+@keyframes animateSvg {
+    to {
+      transform: translate(-50%, -10px);
+    }
+  }
+
+
+@keyframes updown {
+    to {
+        transform: translateY(-5px);
+    }
+}
+@keyframes upanddown {
+    to {
+        transform: translateY(-5px);
+    }
+}
+
+@keyframes updownn {
+    to {
+
+        transform: translateY(-10px);
+    }
+}
