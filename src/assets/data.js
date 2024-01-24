@@ -120,20 +120,12 @@ export const projects= [
     },
     
     {
-      icon: <FaSass size="2rem" color="#ff00b3" />,
-      skill: "Sass",
-      valuenow: 25,
-      width: 25,
-      level: "25",
-      id: 4
-    },
-    {
       icon: <SiTailwindcss size="2rem" color="cyan" />,
       skill: "Tailwind Css",
       valuenow: 45,
       width:45,
       level: "45",
-      id: 5
+      id: 4
     },
     {
       icon: <FaBootstrap size="2rem" color="#9627ff" />,
@@ -141,7 +133,7 @@ export const projects= [
       valuenow: 75,
       width: 75,
       level: "75",
-      id: 6
+      id: 5
     },
   ]
   export const skillsback = [
@@ -171,6 +163,14 @@ export const projects= [
       id: 3
     },
     
+    {
+      icon: <FaSass size="2rem" color="#ff00b3" />,
+      skill: "Sass",
+      valuenow: 25,
+      width: 25,
+      level: "25",
+      id: 4
+    },
    
   ]
   export const skillsothers = [
