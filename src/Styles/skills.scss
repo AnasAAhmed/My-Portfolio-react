@@ -35,10 +35,11 @@
   transition: all 0.3s;
 
   &:hover {
-    background-color: $color3_1;
+    background-color: $color5;
   }
 }
 .skillactive{ 
+  transform:scale(1);
   background-color:$color5;
 }
 .CsdarouselsItem{ 
