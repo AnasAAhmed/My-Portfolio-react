@@ -1,6 +1,6 @@
 import { FaReact, FaHtml5, FaCss3Alt, FaSass,  FaBootstrap, FaGithub ,FaGitAlt, FaNodeJs} from "react-icons/fa";
 import { RiJavascriptFill } from "react-icons/ri";
-import {  SiMongodb,SiExpress, SiTailwindcss } from "react-icons/si";
+import {  SiMongodb, SiTailwindcss } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 export const projects= [
     {
@@ -127,14 +127,7 @@ export const projects= [
       level: "45",
       id: 4
     },
-    {
-      icon: <FaBootstrap size="2rem" color="#9627ff" />,
-      skill: "Bootstrap",
-      valuenow: 75,
-      width: 75,
-      level: "75",
-      id: 5
-    },
+    
   ]
   export const skillsback = [
     
@@ -154,15 +147,14 @@ export const projects= [
       level: "45",
       id: 2
     },
-    {
-      icon: <SiExpress size="2rem" color="green" />,
-      skill: "Expressjs",
-      valuenow: 35,
-      width: 35,
-      level: "35",
+      {
+      icon: <FaBootstrap size="2rem" color="#9627ff" />,
+      skill: "Bootstrap",
+      valuenow: 75,
+      width: 75,
+      level: "75",
       id: 3
     },
-    
     {
       icon: <FaSass size="2rem" color="#ff00b3" />,
       skill: "Sass",
