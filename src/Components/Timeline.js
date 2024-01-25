@@ -1,7 +1,7 @@
 import React from "react";
 import {time} from "../assets/data";
 import { motion } from "framer-motion";
-
+import { BsChevronDown } from "react-icons/bs";
 const Timeline = () => {
 
     return (
