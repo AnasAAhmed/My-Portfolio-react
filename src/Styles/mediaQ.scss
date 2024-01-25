@@ -294,7 +294,10 @@
   }
  
     #timeline {
-
+ >.psvg {
+      margin-left: 8px;
+      justify-content: flex-start;
+    }
         .timelineBox::after {
           left: 31px;
         }
