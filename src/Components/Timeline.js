@@ -17,7 +17,10 @@ const Timeline = () => {
                     />
                 ))}
             </div>      
-            <div className="po"></div>
+            <div className="psvg"> 
+
+            <BsChevronDown  color="black" size="3rem"/>
+            </div>
         </div>
     );
 };
