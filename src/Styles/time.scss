@@ -3,6 +3,11 @@
 #timeline {
   width: 100%;
   background-color: $color1;
+   .psvg{ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
   .timelineBox {
     width: 100%;
     position: relative;
