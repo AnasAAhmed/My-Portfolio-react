@@ -36,23 +36,17 @@ const Home = ({ratio}) => {
     },
     img: {
       initial: {
-        x: "+100%",
-        opacity: 0,
-      },
-      whileInView: {
-        x: 0,
-        opacity: 1,
-      },
-    },
-    button: {
-      initial: {
-        y: "-100%",
+        y: "+100%",
         opacity: 0,
       },
       whileInView: {
         y: 0,
         opacity: 1,
       },
+      transition:{
+        duration:0.4,
+        delay:0.3
+      }
     },
   };
   return (
@@ -73,12 +67,12 @@ const Home = ({ratio}) => {
             }}
           />
 
-<div>
+<motion.div {...animations.img}>
             <a href="mailto:anasahmedd224@gmail.com">Hire Me</a>
             <a href="#work">
               Projects <BsArrowUpRight />
             </a>
-          </div>
+          </motion.div>
 
           <article>
             <p>
@@ -126,10 +120,10 @@ const Home = ({ratio}) => {
           
         </div>
       </section>
-      <section>
+      <motion.section{...animations.img}>
         <img src={de} alt="Anas"  
         />
-      </section>
+      </motion.section>
      <a href="#contact"> <BsChevronDown  /></a>
     </div>
   );
