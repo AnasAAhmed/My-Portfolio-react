@@ -8,7 +8,7 @@ export const projects= [
       title: "React.scss",    
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://anasaahmed.github.io/React-scss/",
-      imgSrc: "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/scss.jpeg"
     }, 
     {
     
@@ -16,7 +16,7 @@ export const projects= [
       title: "Crypto.info",
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://crypto-info-zeta.vercel.app/",
-      imgSrc: "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/crypto.jpeg"
     }, 
     {
     
@@ -24,7 +24,7 @@ export const projects= [
       title: "REACT.CART",
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://anasaahmed.github.io/react-cart/",
-      imgSrc: "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/cart.jpeg"
     }, 
     {
     
@@ -32,7 +32,7 @@ export const projects= [
       title: "PORTFOLIO",
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "/",
-      imgSrc: "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/reactPortfo.jpeg"
     }, 
     {
     
@@ -40,7 +40,7 @@ export const projects= [
       title: "Textutility",
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://anasaahmed.github.io/lol2.textutility/",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/React-scss/main/images/d.jpeg"
+      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/textutil.jpeg"
     }, 
     {
     
@@ -48,7 +48,7 @@ export const projects= [
       title: "PORTFOLIO",   
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://anasaahmed.github.io/Portfolio.An/",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/React-scss/main/WhatsApp%20Image%202023-12-12%20at%205.09.00%20PM.jpeg"
+      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/portfoliAn.jpeg "
     }, 
     {
     
@@ -56,7 +56,7 @@ export const projects= [
       title: "iNoteBook",   
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://inotebook-gh3p-mern.vercel.app",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/Todolist/main/Screenshot%20(6).png"
+      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/inotebook.jpeg"
     }, 
     {
     
@@ -64,7 +64,7 @@ export const projects= [
       title: "Evently",   
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://event-plt.vercel.app",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/Todolist/main/Screenshot%20(4).png"
+      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/event.jpeg"
     }
     
   ]
