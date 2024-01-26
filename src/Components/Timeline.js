@@ -37,6 +37,10 @@ const TimelineItem = ({ heading, text, index }) => {
                 y: 0,
                 opacity: 1,
             },
+            transition:{
+                duration:0.5,
+                delay:0.2
+            },
         }
     }
     return (
@@ -44,7 +48,7 @@ const TimelineItem = ({ heading, text, index }) => {
             className={`timelineItem ${index % 2 === 0 ? "leftTimeline" : "rightTimeline"
                 }`}
         >
-            <motion.div {...animations.h1} transition={{ delay: 0.1 }}>
+            <motion.div {...animations.h1} >
 
                 <h4>{heading}</h4>
                 <p>{text}</p>
