@@ -68,7 +68,7 @@ const Home = ({ratio}) => {
           />
 
 <motion.div {...animations.img}>
-            <a href="mailto:anasahmedd224@gmail.com">Hire Me</a>
+            <a href="#contact">Hire Me</a>
             <a href="#work">
               Projects <BsArrowUpRight />
             </a>
@@ -124,7 +124,6 @@ const Home = ({ratio}) => {
         <img src={de} alt="Anas"  
         />
       </motion.section>
-     <a href="#contact"> <BsChevronDown  /></a>
     </div>
   );
 };
