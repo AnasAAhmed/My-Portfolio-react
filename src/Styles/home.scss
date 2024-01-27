@@ -12,7 +12,7 @@
 
     &:first-of-type {
       padding-top:4rem;
-      margin-right: 2rem;
+      
 
       >div {
         border-top: 1px solid $color6-2;
@@ -99,7 +99,7 @@
     }
 
     &:last-of-type {
-     margin-right:3rem;
+     
       display: flex;
        margin-top: 9rem;
       overflow-x: hidden;
