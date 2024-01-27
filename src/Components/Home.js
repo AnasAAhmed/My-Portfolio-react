@@ -36,7 +36,7 @@ const Home = ({ratio}) => {
     },
     img: {
       initial: {
-        y: "+100%",
+        y: "+70%",
         opacity: 0,
       },
       whileInView: {
