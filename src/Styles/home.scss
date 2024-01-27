@@ -32,7 +32,7 @@
 
         >div {
           display: flex;
-          margin: 3rem 0;
+          margin: 2rem 0;
           width: 70%;
           gap: 4rem;
           align-items: center;
@@ -65,7 +65,7 @@
         }
 
         article {
-          margin: 2rem 0;
+          margin: 1rem 0;
           width: 10rem;
           color: $color5;
           position: relative;
@@ -98,7 +98,7 @@
     }
 
     &:last-of-type {
-      border-top: 1px solid $color6_2;
+     
       display: flex;
        margin-top: 9rem;
       overflow-x: hidden;
