@@ -8,7 +8,7 @@ export const projects= [
       title: "React.scss",    
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://anasaahmed.github.io/React-scss/",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/scss.jpeg"
+      imgSrc: "./images/scss.jpeg"
     }, 
     {
     
@@ -16,7 +16,7 @@ export const projects= [
       title: "Crypto.info",
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://crypto-info-zeta.vercel.app/",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/crypto.jpeg"
+      imgSrc: "./images/crypto.jpeg"
     }, 
     {
     
@@ -24,23 +24,21 @@ export const projects= [
       title: "REACT.CART",
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://anasaahmed.github.io/react-cart/",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/cart.jpeg"
+      imgSrc: "./images/cart.jpeg"
     }, 
     {
-    
-    
-      title: "PORTFOLIO",
-      description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      url: "/",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/reactPortfo.jpeg"
-    }, 
+    title: "Sharetopia",
+    description: "This is a code repository for the corresponding video tutorial. ",
+    imgSrc:'./images/share.jpeg' ,
+    url: "https://sharetopia-nextjs.vercel.app",
+  }, 
     {
     
     
       title: "Textutility",
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://anasaahmed.github.io/lol2.textutility/",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/textutil.jpeg"
+      imgSrc: "./images/textutil.jpeg"
     }, 
     {
     
@@ -48,15 +46,15 @@ export const projects= [
       title: "PORTFOLIO",   
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://anasaahmed.github.io/Portfolio.An/",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/portfoliAn.jpeg "
+      imgSrc: "./images/portfoliAn.jpeg "
     }, 
     {
     
   
       title: "iNoteBook",   
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      url: "https://inotebook-gh3p-mern.vercel.app",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/inotebook.jpeg"
+      url: "https://inotebook-react-mern.vercel.app",
+      imgSrc: "./images/inotebook.jpeg"
     }, 
     {
     
@@ -64,7 +62,7 @@ export const projects= [
       title: "Evently",   
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       url: "https://event-plt.vercel.app",
-      imgSrc: "https://raw.githubusercontent.com/AnasAAhmed/My-Portfolio/main/src/assets/event.jpeg"
+      imgSrc: "./images/event.jpeg"
     }
     
   ]
