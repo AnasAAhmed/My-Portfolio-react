@@ -30,7 +30,7 @@ export const projects= [
     title: "Sharetopia",
     description: "This is a code repository for the corresponding video tutorial. ",
     imgSrc:'./images/share.jpeg' ,
-    url: "https://sharetopia-nextjs.vercel.app",
+    url: "https://promtopia-three.vercel.app",
   }, 
     {
     
