@@ -30,7 +30,7 @@ export const projects= [
     title: "Sharetopia",
     description: "This is a code repository for the corresponding video tutorial. ",
     imgSrc:'./images/share.jpeg' ,
-    url: "https://promtopia-three.vercel.app",
+    url: "https://sharetopia-three.vercel.app",
   }, 
     {
     
@@ -61,7 +61,7 @@ export const projects= [
   
       title: "Evently",   
       description: "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      url: "https://event-plt.vercel.app",
+      url: "https://event-mern-platform.vercel.app",
       imgSrc: "./images/event.jpeg"
     }
     
